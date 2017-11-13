@@ -21,6 +21,7 @@ bit.ly
 bitbucket.org
 brightcove.net
 c.s-microsoft.com
+camo.stream.highwebmedia.com
 cdn.embedly.com
 cdn.optimizely.com
 cdn2.optimizely.com
