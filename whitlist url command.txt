@@ -1,2 +1,2 @@
 sudo -s
-curl -sS https://raw.githubusercontent.com/ryanpivpn/whitelist/master/whitelist.txt > /etc/pihole/whitelist.txt
+curl -sS https://raw.githubusercontent.com/ryanpimoaab/mylists/master/whitelist.txt > /etc/pihole/whitelist.txt
