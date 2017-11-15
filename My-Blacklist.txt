@@ -10,6 +10,7 @@ b.scorecardresearch.com
 badges-production-external-877820065.us-west-2.elb.amazonaws.com
 bitcoin-code.co
 cdn.ss.anno.channel4.com
+cdn.ss.anno.channel4.com
 ctg.hege.gdn
 d1xfwwbc8v6bav.cloudfront.net
 euw.adserver.snapads.com
