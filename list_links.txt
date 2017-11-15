@@ -5,22 +5,30 @@ https://ryanpimoaab.github.io/weekly/Quidsup-notrack-trackers.txt
 https://ryanpimoaab.github.io/weekly/Malwaredomainlist-hosts.txt
 
 https://ryanpimoaab.github.io/smaller-lists/Anudeep-adservers.txt
-https://ryanpimoaab.github.io/smaller-lists/Greatis-web-miner.txt
-https://ryanpimoaab.github.io/smaller-lists/0.1-c0inblocklist-list.txt
-https://ryanpimoaab.github.io/smaller-lists/coin-list_browser.txt
-https://ryanpimoaab.github.io/smaller-lists/Adguard-mobile-ads.txt
-https://ryanpimoaab.github.io/smaller-lists/Adguard-safari-filter.txt
-https://ryanpimoaab.github.io/smaller-lists/Adguard-annoyances.txt
-https://ryanpimoaab.github.io/smaller-lists/win10-spy.txt
-https://ryanpimoaab.github.io/smaller-lists/win8-1-spy.txt
-https://ryanpimoaab.github.io/smaller-lists/win7-spy.txt
-https://ryanpimoaab.github.io/smaller-lists/ublock-privacy.txt
-https://ryanpimoaab.github.io/smaller-lists/ublock-resource-abuse.txt
 https://ryanpimoaab.github.io/smaller-lists/adblockplus-list.txt
 https://ryanpimoaab.github.io/smaller-lists/abp-fanboy-enhancedstats.txt
 https://ryanpimoaab.github.io/smaller-lists/dawsey-ablist.txt
 https://ryanpimoaab.github.io/smaller-lists/Anudeep-youtube-test.txt
 https://ryanpimoaab.github.io/smaller-lists/dxm-youtube-list.txt
+https://ryanpimoaab.github.io/smaller-lists/ransomware-list.txt
+
+https://ryanpimoaab.github.io/AdguardDNS/Adguard-DNS.txt
+
+https://ryanpimoaab.github.io/win/win10-spy.txt
+https://ryanpimoaab.github.io/win/win8-1-spy.txt
+https://ryanpimoaab.github.io/win/win7-spy.txt
+
+https://ryanpimoaab.github.io/uB-Ag/Adguard-mobile-ads.txt
+https://ryanpimoaab.github.io/uB-Ag/Adguard-safari-filter.txt
+https://ryanpimoaab.github.io/uB-Ag/Adguard-annoyances.txt
+https://ryanpimoaab.github.io/uB-Ag/Adguard-spyware.txt
+https://ryanpimoaab.github.io/uB-Ag/ublock-antiskimming.txt
+https://ryanpimoaab.github.io/uB-Ag/ublock-privacy.txt
+
+https://ryanpimoaab.github.io/coin/0.1-c0inblocklist-list.txt
+https://ryanpimoaab.github.io/coin/coin-list_browser.txt
+https://ryanpimoaab.github.io/coin/Greatis-web-miner.txt
+https://ryanpimoaab.github.io/coin/ublock-resource-abuse.txt
 
 https://ryanpimoaab.github.io/mylists/My-Blacklist.txt
 
