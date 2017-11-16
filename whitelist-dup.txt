@@ -305,6 +305,7 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 youtube-nocookie.com
+youtube.com
 yt3.ggpht.com
 yt3.ggpht.com
 ytimg.com
