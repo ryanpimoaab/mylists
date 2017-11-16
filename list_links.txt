@@ -70,8 +70,6 @@ https://ryanpimoaab.github.io/win/win7-spy.txt
 
 https://ryanpimoaab.github.io/uB-Ag/Adguard-mobile-ads.txt
 https://ryanpimoaab.github.io/uB-Ag/Adguard-safari-filter.txt
-https://ryanpimoaab.github.io/uB-Ag/Adguard-annoyances.txt
-https://ryanpimoaab.github.io/uB-Ag/Adguard-spyware.txt
 https://ryanpimoaab.github.io/uB-Ag/ublock-antiskimming.txt
 https://ryanpimoaab.github.io/uB-Ag/ublock-privacy.txt
 
