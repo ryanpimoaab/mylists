@@ -292,6 +292,7 @@ www.tradingview.com
 www.xboxlive.com
 www.xboxlive.com
 www.youtube-nocookie.com
+www.youtube.com
 xbox.ipv6.microsoft.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
