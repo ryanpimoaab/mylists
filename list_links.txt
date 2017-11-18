@@ -67,6 +67,7 @@ https://ryanpimoaab.github.io/AdguardDNS/Adguard-DNS.txt
 https://ryanpimoaab.github.io/win/win10-spy.txt
 https://ryanpimoaab.github.io/win/win8-1-spy.txt
 https://ryanpimoaab.github.io/win/win7-spy.txt
+https://ryanpimoaab.github.io/win/skype-ads.txt
 
 https://ryanpimoaab.github.io/uB-Ag/Adguard-mobile-ads.txt
 https://ryanpimoaab.github.io/uB-Ag/Adguard-safari-filter.txt
