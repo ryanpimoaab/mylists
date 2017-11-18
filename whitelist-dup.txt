@@ -14,9 +14,11 @@ android.clients.google.com
 api.ipify.org
 api.ipify.org
 api.twitter.com
+app-analytics.snapchat.com
 app-api.ted.com
 app-api.ted.com
 app.plex.tv
+appleid.apple.com
 appleid.apple.com
 appleid.apple.com
 apps.skype.com
@@ -44,6 +46,7 @@ cdn3.optimizely.com
 cdnjs.cloudflare.com
 cert.mgt.xboxlive.com
 cert.mgt.xboxlive.com
+cf-st.sc-cdn.net
 clients2.google.com
 clients2.google.com
 clients3.google.com
@@ -77,6 +80,7 @@ dl.dropbox.com
 dl.dropbox.com
 dl.dropboxusercontent.com
 dl.dropboxusercontent.com
+dl.google.com
 dl.google.com
 dns.msftncsi.com
 dns.msftncsi.com
@@ -138,6 +142,7 @@ imgs.xkcd.com
 imgs.xkcd.com
 imgur.com
 inbox.google.com
+itunes.apple.com
 j.mp
 julio.xarold.com
 keystone.mwbsys.com
@@ -227,6 +232,7 @@ s3.amazonaws.com
 s3.tradingview.com
 sa.symcb.com
 sa.symcb.com
+sc-analytics.appspot.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
