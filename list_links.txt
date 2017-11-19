@@ -39,7 +39,6 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
-https://hosts-file.net/psh.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/CryptoWall-Ransomware-C2-Domain-blocklist.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Ransomware-Domain-Blocklist.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Trackers.txt

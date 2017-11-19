@@ -32,3 +32,7 @@ address=/snapads.com/192.168.1.79
 address=/symcd.com/192.168.1.79
 address=/tbccint.com/192.168.1.79
 address=/wpnrtnmrewunrtok.xyz/192.168.1.79
+address=/icloudi.com/192.168.1.79
+address=/id.en-restore.info/192.168.1.79
+address=/max.shop/192.168.1.79
+address=/service-complete-information.com/192.168.1.79
