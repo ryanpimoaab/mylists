@@ -91,3 +91,6 @@ content.cdn.viber.com
 ftp.goodgame.ru
 storage2.goodgame.ru
 toots-a.akamaihd.net
+arc-aws-cf-cloud-resources.tombola.com
+cms-cdn.tombola.com
+www.tombolaarcade.co.uk
