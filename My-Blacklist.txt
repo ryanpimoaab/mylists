@@ -49,7 +49,6 @@ r4.sn-vgqs7nez.googlevideo.com
 rsrc.bitcoin-code.co
 sb.scorecard
 sdad.guru
-secure.pes.itv.com
 sof008.site
 spade.twitch.com
 spade.twitch.tv
@@ -91,3 +90,4 @@ candy.goodgame.ru
 content.cdn.viber.com
 ftp.goodgame.ru
 storage2.goodgame.ru
+toots-a.akamaihd.net
