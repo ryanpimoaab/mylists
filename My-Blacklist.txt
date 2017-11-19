@@ -87,3 +87,7 @@ www.zagent156.h-cdn.com
 www.zagent870.h-cdn.com
 zagent156.h-cdn.com
 zagent870.h-cdn.com
+candy.goodgame.ru
+content.cdn.viber.com
+ftp.goodgame.ru
+storage2.goodgame.ru
