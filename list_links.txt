@@ -47,8 +47,6 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt
 
-https://ryanpimoaab.github.io/hosts-file/psh.txt
-
 https://ryanpimoaab.github.io/weekly/Anudeep-youtube.txt
 https://ryanpimoaab.github.io/weekly/Quidsup-notrack-trackers.txt
 https://ryanpimoaab.github.io/weekly/Malwaredomainlist-hosts.txt
