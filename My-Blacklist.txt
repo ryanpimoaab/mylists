@@ -63,7 +63,6 @@ static.livecamsroulette.com
 storage2.goodgame.ru
 thebritmethod.xyz
 tmi-nginx-external-production-972580919.us-west-2.elb.amazonaws.com
-tom.itv.com
 toots-a.akamaihd.net
 tqeobp89axcn.com
 track-eu.adformnet.akadns.net
