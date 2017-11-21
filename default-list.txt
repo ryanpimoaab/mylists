@@ -14,7 +14,7 @@
 
 ##Hosts-file.net
 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://ryanpimoaab.github.io/SB/SB-hosts.txt
 https://mirror1.malwaredomains.com/files/justdomains
 http://sysctl.org/cameleon/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
