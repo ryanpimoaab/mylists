@@ -182,6 +182,7 @@ playatoms-pa.googleapis.com
 players.brightcove.net
 playstation.net
 plex.tv
+pp.userapi.com
 pricelist.skype.com
 products.office.com
 proxy.googlezip.net

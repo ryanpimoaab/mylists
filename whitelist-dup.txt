@@ -294,6 +294,7 @@ players.brightcove.net
 playstation.net
 plex.tv
 plex.tv
+pp.userapi.com
 pricelist.skype.com
 pricelist.skype.com
 pricelist.skype.com
