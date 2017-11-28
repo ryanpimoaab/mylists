@@ -15,7 +15,6 @@
 ##Hosts-file.net
 
 https://ryanpimoaab.github.io/SB/SB-hosts.txt
-https://mirror1.malwaredomains.com/files/justdomains
 http://sysctl.org/cameleon/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
