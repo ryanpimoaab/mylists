@@ -19,9 +19,10 @@ https://mirror1.malwaredomains.com/files/justdomains
 http://sysctl.org/cameleon/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://ryanpimoaab.github.io/disconnect-me/simple_ad.txt
+https://ryanpimoaab.github.io/disconnect-me/simple_malvertising.txt
+https://ryanpimoaab.github.io/disconnect-me/simple_malware.txt
+https://ryanpimoaab.github.io/disconnect-me/simple_tracking.txt
 
 https://hosts-file.net/ad_servers.txt
 https://hosts-file.net/grm.txt
@@ -39,14 +40,19 @@ https://adaway.org/hosts.txt
 
 https://ryanpimoaab.github.io/nope/minimalhosts.txt
 https://ryanpimoaab.github.io/nope/notrack-malicious.txt
+https://ryanpimoaab.github.io/nope/pgl-yoyo-ads.txt
 
 https://ryanpimoaab.github.io/SB-s/KAD-hosts.txt
 https://ryanpimoaab.github.io/SB-s/2o7Net-hosts.txt
 https://ryanpimoaab.github.io/SB-s/Trackers.txt
 https://ryanpimoaab.github.io/SB-s/spam-hosts.txt
 https://ryanpimoaab.github.io/SB-s/tyzbit-hosts.txt
+https://ryanpimoaab.github.io/SB-s/FM-dead-hosts
+https://ryanpimoaab.github.io/SB-s/FM-risk-hosts
 
 https://ryanpimoaab.github.io/mwd-id/malwaredomains-immortal_domains.txt
+https://ryanpimoaab.github.io/mwd-id/justdomains.txt
+https://ryanpimoaab.github.io/mwd-id/hosts.txt
 
 https://ryanpimoaab.github.io/rw-list/multiple-lists-ransomware.txt
 
