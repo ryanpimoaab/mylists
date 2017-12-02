@@ -26,6 +26,8 @@ https://ryanpimoaab.github.io/disconnect-me/simple_tracking.txt
 https://ryanpimoaab.github.io/h-f-ad/ad_servers.txt
 https://ryanpimoaab.github.io/h-f/grm.txt
 https://ryanpimoaab.github.io/h-f/exp.txt
+https://ryanpimoaab.github.io/h-f-emd/emd.txt
+https://ryanpimoaab.github.io/h-f-psh/psh.txt
 
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
