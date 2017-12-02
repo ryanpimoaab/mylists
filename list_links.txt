@@ -43,11 +43,10 @@ https://ryanpimoaab.github.io/nope/pgl-yoyo-ads.txt
 
 https://ryanpimoaab.github.io/SB-s/KAD-hosts.txt
 https://ryanpimoaab.github.io/SB-s/2o7Net-hosts.txt
-https://ryanpimoaab.github.io/SB-s/Trackers.txt
 https://ryanpimoaab.github.io/SB-s/spam-hosts.txt
 https://ryanpimoaab.github.io/SB-s/tyzbit-hosts.txt
-https://ryanpimoaab.github.io/SB-s/FM-dead-hosts
-https://ryanpimoaab.github.io/SB-s/FM-risk-hosts
+https://ryanpimoaab.github.io/SB-s/FM-dead-hosts.txt
+https://ryanpimoaab.github.io/SB-s/FM-risk-hosts.txt
 
 https://ryanpimoaab.github.io/mwd-id/malwaredomains-immortal_domains.txt
 https://ryanpimoaab.github.io/mwd-id/justdomains.txt
