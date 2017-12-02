@@ -23,7 +23,7 @@ https://ryanpimoaab.github.io/disconnect-me/simple_malvertising.txt
 https://ryanpimoaab.github.io/disconnect-me/simple_malware.txt
 https://ryanpimoaab.github.io/disconnect-me/simple_tracking.txt
 
-https://hosts-file.net/ad_servers.txt
+https://ryanpimoaab.github.io/h-f-ad/ad_servers.txt
 https://hosts-file.net/grm.txt
 https://hosts-file.net/exp.txt
 
