@@ -17,6 +17,7 @@ bitcoin-code.co
 candy.goodgame.ru
 cdn.ss.anno.channel4.com
 clicks.istripper.com
+client-event-reporter.twitch.tv
 cms-cdn.tombola.com
 content.cdn.viber.com
 ctg.hege.gdn
@@ -35,6 +36,7 @@ i1.ytimg.com
 ido.mymacupgrade.download
 iendoo.com
 ihostingcoupon.com
+imasdk.googleapis.com
 inscname.net
 insnw.net
 instartlogic.com
@@ -50,6 +52,7 @@ orient-beauties.com
 pirateproxy.cam
 pttmqpogyu.bid
 pubads.g.doubleclick.net
+pubster.twitch.tv
 r1---sn-vgqsen7z.googlevideo.com
 r1.sn-vgqsen7z.googlevideo.com
 r17---sn-vgqsenes.googlevideo.com
@@ -60,6 +63,7 @@ r4---sn-vgqs7nez.googlevideo.com
 r4.sn-vgqs7nez.googlevideo.com
 rsrc.bitcoin-code.co
 sb.scorecard
+sb.scorecardresearch.com
 sdad.guru
 sof008.site
 spade.twitch.com
@@ -106,6 +110,7 @@ www.bitcoin-code.co
 www.candy.goodgame.ru
 www.cdn.ss.anno.channel4.com
 www.clicks.istripper.com
+www.client-event-reporter.twitch.tv
 www.cms-cdn.tombola.com
 www.content.cdn.viber.com
 www.ctg.hege.gdn
@@ -124,6 +129,7 @@ www.i1.ytimg.com
 www.ido.mymacupgrade.download
 www.iendoo.com
 www.ihostingcoupon.com
+www.imasdk.googleapis.com
 www.inscname.net
 www.insnw.net
 www.instartlogic.com
@@ -139,6 +145,7 @@ www.orient-beauties.com
 www.pirateproxy.cam
 www.pttmqpogyu.bid
 www.pubads.g.doubleclick.net
+www.pubster.twitch.tv
 www.r1---sn-vgqsen7z.googlevideo.com
 www.r1.sn-vgqsen7z.googlevideo.com
 www.r17---sn-vgqsenes.googlevideo.com
@@ -149,6 +156,7 @@ www.r4---sn-vgqs7nez.googlevideo.com
 www.r4.sn-vgqs7nez.googlevideo.com
 www.rsrc.bitcoin-code.co
 www.sb.scorecard
+www.sb.scorecardresearch.com
 www.sdad.guru
 www.sof008.site
 www.spade.twitch.com
