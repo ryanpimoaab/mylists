@@ -24,8 +24,8 @@ https://ryanpimoaab.github.io/disconnect-me/simple_malware.txt
 https://ryanpimoaab.github.io/disconnect-me/simple_tracking.txt
 
 https://ryanpimoaab.github.io/h-f-ad/ad_servers.txt
-https://hosts-file.net/grm.txt
-https://hosts-file.net/exp.txt
+https://ryanpimoaab.github.io/h-f/grm.txt
+https://ryanpimoaab.github.io/h-f/exp.txt
 
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
