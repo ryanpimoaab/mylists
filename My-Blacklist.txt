@@ -50,6 +50,7 @@ offermediaservices.world
 one-sol.in
 opencache.com
 orient-beauties.com
+piguiqproxy.com
 pirateproxy.cam
 promoted.hubsvc.itv.com
 pttmqpogyu.bid
@@ -72,6 +73,7 @@ spade.twitch.com
 spade.twitch.tv
 stat.ihostingcoupon.com
 static.livecamsroulette.com
+steepto.com
 storage2.goodgame.ru
 thebritmethod.xyz
 tmi-nginx-external-production-972580919.us-west-2.elb.amazonaws.com
@@ -145,6 +147,7 @@ www.offermediaservices.world
 www.one-sol.in
 www.opencache.com
 www.orient-beauties.com
+www.piguiqproxy.com
 www.pirateproxy.cam
 www.promoted.hubsvc.itv.com
 www.pttmqpogyu.bid
@@ -167,6 +170,7 @@ www.spade.twitch.com
 www.spade.twitch.tv
 www.stat.ihostingcoupon.com
 www.static.livecamsroulette.com
+www.steepto.com
 www.storage2.goodgame.ru
 www.thebritmethod.xyz
 www.tmi-nginx-external-production-972580919.us-west-2.elb.amazonaws.com
