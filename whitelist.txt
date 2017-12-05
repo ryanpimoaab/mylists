@@ -37,7 +37,6 @@ brightcove.net
 c.s-microsoft.com
 camo.stream.highwebmedia.com
 cdn.embedly.com
-cdn.jsdelivr.net
 cdn.optimizely.com
 cdn2.optimizely.com
 cdn3.optimizely.com
@@ -317,7 +316,6 @@ www.brightcove.net
 www.c.s-microsoft.com
 www.camo.stream.highwebmedia.com
 www.cdn.embedly.com
-www.cdn.jsdelivr.net
 www.cdn.optimizely.com
 www.cdn2.optimizely.com
 www.cdn3.optimizely.com
