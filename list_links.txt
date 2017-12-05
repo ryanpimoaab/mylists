@@ -58,7 +58,6 @@ https://ryanpimoaab.github.io/rw-list/multiple-lists-ransomware.txt
 
 https://ryanpimoaab.github.io/weekly/Anudeep-youtube.txt
 https://ryanpimoaab.github.io/weekly/Quidsup-notrack-trackers.txt
-https://ryanpimoaab.github.io/weekly/Malwaredomainlist-hosts.txt
 
 https://ryanpimoaab.github.io/smaller-lists/Anudeep-adservers.txt
 https://ryanpimoaab.github.io/smaller-lists/adblockplus-list.txt
