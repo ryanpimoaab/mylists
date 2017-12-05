@@ -31,8 +31,11 @@ appsbackup-pa.googleapis.com
 apt.sonarr.tv
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
+binance.com
 bit.ly
 bitbucket.org
+bitcoin.com
+bittrex.com
 brightcove.net
 c.s-microsoft.com
 camo.stream.highwebmedia.com
@@ -57,6 +60,8 @@ clients5.google.com
 clients6.google.com
 clientservices.googleapis.com
 cloudconfig.googleapis.com
+coinbase.com
+coinmarketcap.com
 compress.googlezip.net
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -88,6 +93,9 @@ encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
+ethereum.org
+ethereumprice.org
+etoro.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
@@ -107,6 +115,7 @@ fonts.googleapis.com
 fonts.gstatic.com
 forums.sonarr.tv
 g.live.com
+gdax.com
 geo-prod.do.dsp.mp.microsoft.com
 geomobileservices-pa.googleapis.com
 gist.githubusercontent.com
@@ -310,8 +319,11 @@ www.appsbackup-pa.googleapis.com
 www.apt.sonarr.tv
 www.attestation.xboxlive.com
 www.ax.phobos.apple.com.edgesuite.net
+www.binance.com
 www.bit.ly
 www.bitbucket.org
+www.bitcoin.com
+www.bittrex.com
 www.brightcove.net
 www.c.s-microsoft.com
 www.camo.stream.highwebmedia.com
@@ -336,6 +348,8 @@ www.clients5.google.com
 www.clients6.google.com
 www.clientservices.googleapis.com
 www.cloudconfig.googleapis.com
+www.coinbase.com
+www.coinmarketcap.com
 www.compress.googlezip.net
 www.cpms.spop10.ams.plex.bz
 www.cpms35.spop10.ams.plex.bz
@@ -367,6 +381,9 @@ www.encrypted-tbn0.gstatic.com
 www.encrypted-tbn1.gstatic.com
 www.encrypted-tbn2.gstatic.com
 www.encrypted-tbn3.gstatic.com
+www.ethereum.org
+www.ethereumprice.org
+www.etoro.com
 www.external-lhr0-1.xx.fbcdn.net
 www.external-lhr1-1.xx.fbcdn.net
 www.external-lhr10-1.xx.fbcdn.net
@@ -386,6 +403,7 @@ www.fonts.googleapis.com
 www.fonts.gstatic.com
 www.forums.sonarr.tv
 www.g.live.com
+www.gdax.com
 www.geo-prod.do.dsp.mp.microsoft.com
 www.geomobileservices-pa.googleapis.com
 www.gist.githubusercontent.com
