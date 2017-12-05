@@ -37,6 +37,7 @@ brightcove.net
 c.s-microsoft.com
 camo.stream.highwebmedia.com
 cdn.embedly.com
+cdn.jsdelivr.net
 cdn.optimizely.com
 cdn2.optimizely.com
 cdn3.optimizely.com
@@ -196,7 +197,6 @@ proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
-pussl18.com
 ransomwaretracker.abuse.ch
 raw.githubusercontent.com
 reddestdream.github.io
@@ -317,6 +317,7 @@ www.brightcove.net
 www.c.s-microsoft.com
 www.camo.stream.highwebmedia.com
 www.cdn.embedly.com
+www.cdn.jsdelivr.net
 www.cdn.optimizely.com
 www.cdn2.optimizely.com
 www.cdn3.optimizely.com
@@ -476,7 +477,6 @@ www.proxy.plex.tv
 www.proxy02.pop.ord.plex.bz
 www.pubsub.plex.bz
 www.pubsub.plex.tv
-www.pussl18.com
 www.ransomwaretracker.abuse.ch
 www.raw.githubusercontent.com
 www.reddestdream.github.io
