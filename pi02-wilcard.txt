@@ -139,7 +139,6 @@ address=/intercom.io/192.168.1.79
 address=/intercomassets.com/192.168.1.79
 address=/invocacdn.com/192.168.1.79
 address=/izatcloud.net/192.168.1.79
-address=/jsdelivr.net/192.168.1.79
 address=/juosanf.com/192.168.1.79
 address=/jwpltx.com/192.168.1.79
 address=/ketads.com/192.168.1.79
