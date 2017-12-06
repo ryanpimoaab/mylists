@@ -63,6 +63,7 @@ cloudconfig.googleapis.com
 coinbase.com
 coinmarketcap.com
 compress.googlezip.net
+connect.facebook.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
@@ -351,6 +352,7 @@ www.cloudconfig.googleapis.com
 www.coinbase.com
 www.coinmarketcap.com
 www.compress.googlezip.net
+www.connect.facebook.com
 www.cpms.spop10.ams.plex.bz
 www.cpms35.spop10.ams.plex.bz
 www.creative.ak.fbcdn.net
