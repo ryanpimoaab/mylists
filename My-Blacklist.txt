@@ -92,6 +92,7 @@ wlp.cleanmypc.online
 wlp.cleanmypc.online.local
 wpnrtnmrewunrtok.xyz
 ws006.coin-hive.com
+yoredi.com
 youtube-nocookie.com
 zagent156.h-cdn.com
 zagent870.h-cdn.com
@@ -189,6 +190,7 @@ www.wlp.cleanmypc.online
 www.wlp.cleanmypc.online.local
 www.wpnrtnmrewunrtok.xyz
 www.ws006.coin-hive.com
+www.yoredi.com
 www.youtube-nocookie.com
 www.zagent156.h-cdn.com
 www.zagent870.h-cdn.com
