@@ -62,7 +62,6 @@ https://ryanpimoaab.github.io/weekly/Quidsup-notrack-trackers.txt
 https://ryanpimoaab.github.io/smaller-lists/Anudeep-adservers.txt
 https://ryanpimoaab.github.io/smaller-lists/adblockplus-list.txt
 https://ryanpimoaab.github.io/smaller-lists/abp-fanboy-enhancedstats.txt
-https://ryanpimoaab.github.io/smaller-lists/dawsey-ablist.txt
 https://ryanpimoaab.github.io/smaller-lists/Anudeep-youtube-test.txt
 https://ryanpimoaab.github.io/smaller-lists/dxm-youtube-list.txt
 https://ryanpimoaab.github.io/smaller-lists/ransomware-list.txt
