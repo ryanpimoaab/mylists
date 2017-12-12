@@ -15,7 +15,7 @@
 ##Hosts-file.net
 
 https://ryanpimoaab.github.io/SB/SB-hosts.txt
-http://sysctl.org/cameleon/hosts
+https://ryanpimoaab.github.io/sycl-cmln/hosts.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
 https://ryanpimoaab.github.io/disconnect-me/simple_ad.txt
