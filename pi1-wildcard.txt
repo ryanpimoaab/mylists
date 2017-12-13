@@ -246,7 +246,6 @@ address=/startappservice.com/192.168.1.80
 address=/statsevent.com/192.168.1.80
 address=/stkfree.xyz/192.168.1.80
 address=/swrve.com/192.168.1.80
-address=/symcd.com/192.168.1.80
 address=/sync2ad.com/192.168.1.80
 address=/taboola.com/192.168.1.80
 address=/tango-deg.com/192.168.1.80
