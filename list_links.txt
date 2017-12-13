@@ -1,97 +1,88 @@
-# The below list amalgamates several lists we used previously.
-# See `https://github.com/StevenBlack/hosts` for details
-##StevenBlack's list
+https://adaway.org/hosts.txt
 
-##MalwareDomains
+https://v.firebog.net/hosts/static/SamsungSmart.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
 
-##Cameleon
-
-##Zeustracker
-
-##Disconnect.me Tracking
-
-##Disconnect.me Ads
-
-##Hosts-file.net
-
-https://ryanpimoaab.github.io/SB/SB-hosts.txt
-https://ryanpimoaab.github.io/sycl-cmln/hosts.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+
+https://ryanpimoaab.github.io/AdguardDNS/Adguard-DNS.txt
+
+https://ryanpimoaab.github.io/coin/0.1-c0inblocklist-list.txt
+https://ryanpimoaab.github.io/coin/coin-list_browser.txt
+https://ryanpimoaab.github.io/coin/Greatis-web-miner.txt
+https://ryanpimoaab.github.io/coin/ublock-resource-abuse.txt
 
 https://ryanpimoaab.github.io/disconnect-me/simple_ad.txt
 https://ryanpimoaab.github.io/disconnect-me/simple_malvertising.txt
 https://ryanpimoaab.github.io/disconnect-me/simple_malware.txt
 https://ryanpimoaab.github.io/disconnect-me/simple_tracking.txt
 
-https://ryanpimoaab.github.io/h-f-ad/ad_servers.txt
-https://ryanpimoaab.github.io/h-f/grm.txt
-https://ryanpimoaab.github.io/h-f/exp.txt
-https://ryanpimoaab.github.io/h-f/hjk.txt
-https://ryanpimoaab.github.io/h-f/mmt.txt
-https://ryanpimoaab.github.io/h-f/pup.txt
-
-https://ryanpimoaab.github.io/h-f-emd/emd.txt
-
-https://ryanpimoaab.github.io/h-f-psh/psh.txt
-
-https://ryanpimoaab.github.io/h-f-fsa/fsa.txt
-
 https://ryanpimoaab.github.io/Easylist/adservers_popup.txt
 https://ryanpimoaab.github.io/Easylist/adservers.txt
 https://ryanpimoaab.github.io/Easylist/easyprivacy
 
-https://v.firebog.net/hosts/static/SamsungSmart.txt
-https://v.firebog.net/hosts/static/w3kbl.txt
+https://ryanpimoaab.github.io/h-f-ad/ad_servers.txt
+https://ryanpimoaab.github.io/h-f-emd/emd.txt
+https://ryanpimoaab.github.io/h-f-fsa/fsa.txt
+https://ryanpimoaab.github.io/h-f-psh/psh.txt
+https://ryanpimoaab.github.io/h-f/exp.txt
+https://ryanpimoaab.github.io/h-f/grm.txt
+https://ryanpimoaab.github.io/h-f/hjk.txt
+https://ryanpimoaab.github.io/h-f/mmt.txt
+https://ryanpimoaab.github.io/h-f/pup.txt
 
-https://ryanpimoaab.github.io/Prigent-psh/phishing.txt
-https://v.firebog.net/hosts/Prigent-Ads.txt
-https://v.firebog.net/hosts/Prigent-Malware.txt
-https://ryanpimoaab.github.io/Prigent/webmail.txt
-
-https://adaway.org/hosts.txt
+https://ryanpimoaab.github.io/mwd-id/hosts.txt
+https://ryanpimoaab.github.io/mwd-id/justdomains.txt
+https://ryanpimoaab.github.io/mwd-id/malwaredomains-immortal_domains.txt
 
 https://ryanpimoaab.github.io/nope/minimalhosts.txt
 https://ryanpimoaab.github.io/nope/notrack-malicious.txt
 https://ryanpimoaab.github.io/nope/pgl-yoyo-ads.txt
 
-https://ryanpimoaab.github.io/SB-s/KAD-hosts.txt
-https://ryanpimoaab.github.io/SB-s/2o7Net-hosts.txt
-https://ryanpimoaab.github.io/SB-s/spam-hosts.txt
-https://ryanpimoaab.github.io/SB-s/tyzbit-hosts.txt
-https://ryanpimoaab.github.io/SB-s/FM-dead-hosts.txt
-https://ryanpimoaab.github.io/SB-s/FM-risk-hosts.txt
+https://ryanpimoaab.github.io/Prigent-psh/phishing.txt
 
-https://ryanpimoaab.github.io/mwd-id/malwaredomains-immortal_domains.txt
-https://ryanpimoaab.github.io/mwd-id/justdomains.txt
-https://ryanpimoaab.github.io/mwd-id/hosts.txt
+https://ryanpimoaab.github.io/Prigent/ads.txt
+https://ryanpimoaab.github.io/Prigent/bitcoin.txt
+https://ryanpimoaab.github.io/Prigent/cleaning.txt
+https://ryanpimoaab.github.io/Prigent/cryptojacking.txt
+https://ryanpimoaab.github.io/Prigent/ddos.txt
+https://ryanpimoaab.github.io/Prigent/download.txt
+https://ryanpimoaab.github.io/Prigent/malware.txt
+https://ryanpimoaab.github.io/Prigent/remote-control.txt
+https://ryanpimoaab.github.io/Prigent/update.txt
+https://ryanpimoaab.github.io/Prigent/webmail.txt
 
 https://ryanpimoaab.github.io/rw-list/multiple-lists-ransomware.txt
 
-https://ryanpimoaab.github.io/weekly/Anudeep-youtube.txt
-https://ryanpimoaab.github.io/weekly/Quidsup-notrack-trackers.txt
+https://ryanpimoaab.github.io/SB/SB-hosts.txt
 
-https://ryanpimoaab.github.io/smaller-lists/Anudeep-adservers.txt
-https://ryanpimoaab.github.io/smaller-lists/adblockplus-list.txt
+https://ryanpimoaab.github.io/SB-s/2o7Net-hosts.txt
+https://ryanpimoaab.github.io/SB-s/FM-dead-hosts.txt
+https://ryanpimoaab.github.io/SB-s/FM-risk-hosts.txt
+https://ryanpimoaab.github.io/SB-s/KAD-hosts.txt
+https://ryanpimoaab.github.io/SB-s/spam-hosts.txt
+https://ryanpimoaab.github.io/SB-s/tyzbit-hosts.txt
+
 https://ryanpimoaab.github.io/smaller-lists/abp-fanboy-enhancedstats.txt
+https://ryanpimoaab.github.io/smaller-lists/adblockplus-list.txt
+https://ryanpimoaab.github.io/smaller-lists/Anudeep-adservers.txt
 https://ryanpimoaab.github.io/smaller-lists/Anudeep-youtube-test.txt
 https://ryanpimoaab.github.io/smaller-lists/dxm-youtube-list.txt
 https://ryanpimoaab.github.io/smaller-lists/ransomware-list.txt
 
-https://ryanpimoaab.github.io/AdguardDNS/Adguard-DNS.txt
-
-https://ryanpimoaab.github.io/win/win10-spy.txt
-https://ryanpimoaab.github.io/win/win8-1-spy.txt
-https://ryanpimoaab.github.io/win/win7-spy.txt
-https://ryanpimoaab.github.io/win/skype-ads.txt
+https://ryanpimoaab.github.io/sycl-cmln/hosts.txt
 
 https://ryanpimoaab.github.io/uB-Ag/Adguard-mobile-ads.txt
 https://ryanpimoaab.github.io/uB-Ag/Adguard-safari-filter.txt
 https://ryanpimoaab.github.io/uB-Ag/ublock-antiskimming.txt
 https://ryanpimoaab.github.io/uB-Ag/ublock-privacy.txt
 
-https://ryanpimoaab.github.io/coin/0.1-c0inblocklist-list.txt
-https://ryanpimoaab.github.io/coin/coin-list_browser.txt
-https://ryanpimoaab.github.io/coin/Greatis-web-miner.txt
-https://ryanpimoaab.github.io/coin/ublock-resource-abuse.txt
+https://ryanpimoaab.github.io/weekly/Anudeep-youtube.txt
+https://ryanpimoaab.github.io/weekly/Quidsup-notrack-trackers.txt
+
+https://ryanpimoaab.github.io/win/skype-ads.txt
+https://ryanpimoaab.github.io/win/win10-spy.txt
+https://ryanpimoaab.github.io/win/win7-spy.txt
+https://ryanpimoaab.github.io/win/win8-1-spy.txt
 
 https://ryanpimoaab.github.io/mylists/My-Blacklist.txt
