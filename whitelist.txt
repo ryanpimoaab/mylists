@@ -248,6 +248,10 @@ status.plex.tv
 storage.googleapis.com
 support.microsoft.com
 surveymonkey.com
+swcdn.apple.com
+swdownload.apple.com
+swquery.apple.com
+swscan.apple.com
 sysctl.org
 t0.gstatic.com
 t1.gstatic.com
@@ -539,6 +543,10 @@ www.status.plex.tv
 www.storage.googleapis.com
 www.support.microsoft.com
 www.surveymonkey.com
+www.swcdn.apple.com
+www.swdownload.apple.com
+www.swquery.apple.com
+www.swscan.apple.com
 www.sysctl.org
 www.t0.gstatic.com
 www.t1.gstatic.com
