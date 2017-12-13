@@ -19,7 +19,7 @@ https://ryanpimoaab.github.io/disconnect-me/simple_tracking.txt
 
 https://ryanpimoaab.github.io/Easylist/adservers_popup.txt
 https://ryanpimoaab.github.io/Easylist/adservers.txt
-https://ryanpimoaab.github.io/Easylist/easyprivacy
+https://ryanpimoaab.github.io/Easylist/easyprivacy.txt
 
 https://ryanpimoaab.github.io/h-f-ad/ad_servers.txt
 https://ryanpimoaab.github.io/h-f-emd/emd.txt
