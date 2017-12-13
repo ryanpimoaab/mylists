@@ -36,13 +36,17 @@ https://ryanpimoaab.github.io/h-f-psh/psh.txt
 
 https://ryanpimoaab.github.io/h-f-fsa/fsa.txt
 
+https://ryanpimoaab.github.io/Easylist/adservers_popup.txt
+https://ryanpimoaab.github.io/Easylist/adservers.txt
+https://ryanpimoaab.github.io/Easylist/easyprivacy
+
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
-https://v.firebog.net/hosts/Easylist.txt
-https://v.firebog.net/hosts/Easyprivacy.txt
-https://v.firebog.net/hosts/Prigent-Phishing.txt
+
+https://ryanpimoaab.github.io/Prigent-psh/phishing.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
+https://ryanpimoaab.github.io/Prigent/webmail.txt
 
 https://adaway.org/hosts.txt
 
