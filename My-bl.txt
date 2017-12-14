@@ -71,6 +71,7 @@ sdad.guru
 sof008.site
 spade.twitch.com
 spade.twitch.tv
+spklmis.com
 stat.ihostingcoupon.com
 static.livecamsroulette.com
 steepto.com
@@ -169,6 +170,7 @@ www.sdad.guru
 www.sof008.site
 www.spade.twitch.com
 www.spade.twitch.tv
+www.spklmis.com
 www.stat.ihostingcoupon.com
 www.static.livecamsroulette.com
 www.steepto.com
