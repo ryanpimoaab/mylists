@@ -21,6 +21,7 @@ client-event-reporter.twitch.tv
 cms-cdn.tombola.com
 content.cdn.viber.com
 ctg.hege.gdn
+cwcams.com
 d1xfwwbc8v6bav.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 dia.mymacupgrade.download
@@ -120,6 +121,7 @@ www.client-event-reporter.twitch.tv
 www.cms-cdn.tombola.com
 www.content.cdn.viber.com
 www.ctg.hege.gdn
+www.cwcams.com
 www.d1xfwwbc8v6bav.cloudfront.net
 www.d3iz6lralvg77g.cloudfront.net
 www.dia.mymacupgrade.download
