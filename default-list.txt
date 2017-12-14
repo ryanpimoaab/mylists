@@ -16,8 +16,8 @@
 
 https://ryanpimoaab.github.io/SB/SB-hosts.txt
 https://ryanpimoaab.github.io/mwd-id/justdomains.txt
-http://sysctl.org/cameleon/hosts
+https://ryanpimoaab.github.io/sycl-cmln/hsts.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://ryanpimoaab.github.io/dc-me/smpl_trckng.txt
+https://ryanpimoaab.github.io/dc-me/smpl_ad.txt
 https://ryanpimoaab.github.io/h-f-ad/ad_servers.txt
