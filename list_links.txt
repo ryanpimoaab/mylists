@@ -62,6 +62,7 @@ https://ryanpimoaab.github.io/SB-s/2o7N3t-hsts.txt
 https://ryanpimoaab.github.io/SB-s/FM-d34d-hsts.txt
 https://ryanpimoaab.github.io/SB-s/FM-rsk-hsts.txt
 https://ryanpimoaab.github.io/SB-s/K4D-hsts.txt
+https://ryanpimoaab.github.io/SB-s/phsts.txt
 https://ryanpimoaab.github.io/SB-s/spm-hsts.txt
 https://ryanpimoaab.github.io/SB-s/tyzblt-hsts.txt
 
