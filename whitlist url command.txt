@@ -1,2 +1,0 @@
-sudo -s
-curl -sS https://raw.githubusercontent.com/ryanpimoaab/mylists/master/whitelist.txt > /etc/pihole/whitelist.txt
