@@ -2,11 +2,20 @@ https://adaway.org/hosts.txt
 https://ryanpimoaab.github.io/AgD/Ag-DNS.txt
 
 https://ryanpimoaab.github.io/EZList/adsrv.txt
+https://ryanpimoaab.github.io/EZList/pup.txt
+https://ryanpimoaab.github.io/EZList/priv.txt
 
 https://ryanpimoaab.github.io/h-f-fsa/fsa.txt
 https://ryanpimoaab.github.io/h-f/grm.txt
 https://ryanpimoaab.github.io/h-f/mmt.txt
 https://ryanpimoaab.github.io/h-f/pup.txt
+https://ryanpimoaab.github.io/h-f/hjk.txt
+
+https://ryanpimoaab.github.io/h-f-psh/psh.txt
+https://ryanpimoaab.github.io/h-f/exp.txt
+
+https://ryanpimoaab.github.io/nope/mnmlhsts.txt
+https://ryanpimoaab.github.io/nope/pg1-y0y0-4ds.txt
 
 https://ryanpimoaab.github.io/Prgnt/ads.txt
 https://ryanpimoaab.github.io/Prgnt/btk.txt
