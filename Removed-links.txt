@@ -9,8 +9,6 @@ https://ryanpimoaab.github.io/EZList/priv.txt
 
 https://ryanpimoaab.github.io/h-f-emd/emd.txt
 https://ryanpimoaab.github.io/h-f-fsa/fsa.txt
-https://ryanpimoaab.github.io/h-f/grm.txt
-https://ryanpimoaab.github.io/h-f/mmt.txt
 https://ryanpimoaab.github.io/h-f/pup.txt
 
 https://ryanpimoaab.github.io/h-f-psh/psh.txt

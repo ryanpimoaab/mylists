@@ -20,6 +20,8 @@ https://ryanpimoaab.github.io/dc-me/smpl_mlw.txt
 
 https://ryanpimoaab.github.io/h-f/exp.txt
 https://ryanpimoaab.github.io/h-f/hjk.txt
+https://ryanpimoaab.github.io/h-f/grm.txt
+https://ryanpimoaab.github.io/h-f/mmt.txt
 
 https://ryanpimoaab.github.io/h-f-p-f-e/h-f-my.txt
 
