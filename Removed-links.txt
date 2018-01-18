@@ -8,6 +8,7 @@ https://ryanpimoaab.github.io/EZList/pup.txt
 https://ryanpimoaab.github.io/EZList/priv.txt
 
 https://ryanpimoaab.github.io/h-f-emd/emd.txt
+https://ryanpimoaab.github.io/h-f/exp.txt
 https://ryanpimoaab.github.io/h-f-fsa/fsa.txt
 https://ryanpimoaab.github.io/h-f/pup.txt
 
@@ -22,6 +23,7 @@ https://ryanpimoaab.github.io/Prgnt/cleaning.txt
 https://ryanpimoaab.github.io/Prgnt/dds.txt
 https://ryanpimoaab.github.io/Prgnt/DL.txt
 https://ryanpimoaab.github.io/Prgnt/update.txt
+https://ryanpimoaab.github.io/Prgnt/crptjckng.txt
 
 https://ryanpimoaab.github.io/Prgnt-psh/psh.txt
 
