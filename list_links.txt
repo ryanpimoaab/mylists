@@ -41,7 +41,6 @@ https://ryanpimoaab.github.io/SB-s/spm-hsts.txt
 
 https://ryanpimoaab.github.io/smaller-lists/abp-l.txt
 https://ryanpimoaab.github.io/smaller-lists/AD-adsrv.txt
-https://ryanpimoaab.github.io/smaller-lists/dxm-yt-l.txt
 https://ryanpimoaab.github.io/smaller-lists/rw-l.txt
 
 https://ryanpimoaab.github.io/uB-Ag/Ag-m-a.txt
