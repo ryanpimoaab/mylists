@@ -53,11 +53,10 @@ https://ryanpimoaab.github.io/weekly/Qu-ntrck-trcks.txt
 
 https://ryanpimoaab.github.io/win/w7_8-1_10.txt
 
+https://ryanpimoaab.github.io/tspr-my/tspr-c-rw-spm.txt
 
-https://jasonhill.co.uk/pfsense/ytadblock.txt
+https://ryanpimoaab.github.io/tspr-frd/tspr-frd.txt
 
-https://tspprs.com/dl/crypto
-https://tspprs.com/dl/ransomware
-https://tspprs.com/dl/spam
-https://tspprs.com/dl/phishing
-https://tspprs.com/dl/fraud
+https://ryanpimoaab.github.io/tspr-ph/tspr-ph.txt
+
+https://ryanpimoaab.github.io/weekly/jh-yt.txt
