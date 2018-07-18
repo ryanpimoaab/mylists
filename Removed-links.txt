@@ -1,6 +1,9 @@
 https://adaway.org/hosts.txt
 https://ryanpimoaab.github.io/AgD/Ag-DNS.txt
 
+https://v.firebog.net/hosts/static/SamsungSmart.txt
+
+
 https://ryanpimoaab.github.io/c0ln/0.1-c0lnbl-l.txt
 
 https://ryanpimoaab.github.io/EZList/adsrv.txt

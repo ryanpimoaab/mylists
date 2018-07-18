@@ -6,7 +6,6 @@ https://ryanpimoaab.github.io/dc-me/smpl_trckng.txt
 https://ryanpimoaab.github.io/dc-me/smpl_ad.txt
 https://ryanpimoaab.github.io/h-f-ad/ad_srv.txt
 
-https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 
 https://ryanpimoaab.github.io/mylists/My-bl.txt
@@ -48,6 +47,7 @@ https://ryanpimoaab.github.io/uB-Ag/Ag-s-f.txt
 https://ryanpimoaab.github.io/uB-Ag/uB-as.txt
 https://ryanpimoaab.github.io/uB-Ag/uB-p.txt
 
+https://ryanpimoaab.github.io/weekly/S-TV.txt
 https://ryanpimoaab.github.io/weekly/AD-yt.txt
 https://ryanpimoaab.github.io/weekly/Qu-ntrck-trcks.txt
 
