@@ -40,3 +40,8 @@ https://ryanpimoaab.github.io/SB-s/tyzblt-hsts.txt
 
 https://ryanpimoaab.github.io/smaller-lists/AD-yt-test.txt
 https://ryanpimoaab.github.io/smaller-lists/dxm-yt-l.txt
+
+
+https://ryanpimoaab.github.io/tspr-frd/tspr-frd.txt
+
+https://ryanpimoaab.github.io/tspr-ph/tspr-ph.txt

@@ -55,8 +55,6 @@ https://ryanpimoaab.github.io/win/w7_8-1_10.txt
 
 https://ryanpimoaab.github.io/tspr-my/tspr-c-rw-spm.txt
 
-https://ryanpimoaab.github.io/tspr-frd/tspr-frd.txt
-
-https://ryanpimoaab.github.io/tspr-ph/tspr-ph.txt
+https://ryanpimoaab.github.io/tspr-frd-ph/tspr-frd-ph.txt
 
 https://ryanpimoaab.github.io/weekly/jh-yt.txt
