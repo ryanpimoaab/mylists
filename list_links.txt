@@ -16,6 +16,7 @@ https://ryanpimoaab.github.io/c0ln/uB-ra.txt
 https://ryanpimoaab.github.io/c0ln/AD-CM.txt
 https://ryanpimoaab.github.io/c0ln/et-pk-lu.txt
 
+# H-f
 https://ryanpimoaab.github.io/h-f-p-f-e/h-f-my.txt
 
 https://ryanpimoaab.github.io/rw-list/ml-rw.txt
@@ -33,5 +34,6 @@ https://ryanpimoaab.github.io/tspr-frd-ph/tspr-frd-ph.txt
 
 https://ryanpimoaab.github.io/weekly/jh-yt.txt
 
+## DShield
 https://dshield.org/feeds/suspiciousdomains_High.txt
 https://dshield.org/feeds/suspiciousdomains_Medium.txt
