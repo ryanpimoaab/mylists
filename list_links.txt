@@ -32,3 +32,6 @@ https://ryanpimoaab.github.io/tspr-my/tspr-c-rw-spm.txt
 https://ryanpimoaab.github.io/tspr-frd-ph/tspr-frd-ph.txt
 
 https://ryanpimoaab.github.io/weekly/jh-yt.txt
+
+https://dshield.org/feeds/suspiciousdomains_High.txt
+https://dshield.org/feeds/suspiciousdomains_Medium.txt
