@@ -1,7 +1,6 @@
 https://ryanpimoaab.github.io/SB/SB-hsts.txt
 https://ryanpimoaab.github.io/mwd-id/jd.txt
 https://ryanpimoaab.github.io/sycl-cmln/hsts.txt
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://ryanpimoaab.github.io/dc-me/smpl_trckng.txt
 https://ryanpimoaab.github.io/dc-me/smpl_ad.txt
 https://ryanpimoaab.github.io/h-f-ad/ad_srv.txt
