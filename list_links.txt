@@ -10,23 +10,4 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 
 https://ryanpimoaab.github.io/mylists/My-bl.txt
 
-https://ryanpimoaab.github.io/c0ln/0.1-c0lnbl_b.txt
-https://ryanpimoaab.github.io/c0ln/grts-wm.txt
-https://ryanpimoaab.github.io/c0ln/uB-ra.txt
-https://ryanpimoaab.github.io/c0ln/AD-CM.txt
-https://ryanpimoaab.github.io/c0ln/et-pk-lu.txt
-
-https://ryanpimoaab.github.io/rw-list/ml-rw.txt
-
-https://ryanpimoaab.github.io/SB-s/spm-hsts.txt
-
-https://ryanpimoaab.github.io/weekly/S-TV.txt
-
-https://ryanpimoaab.github.io/win/w7_8-1_10.txt
-
-https://ryanpimoaab.github.io/tspr-my/tspr-c-rw-spm.txt
-
-https://ryanpimoaab.github.io/tspr-frd-ph/tspr-frd-ph.txt
-
-## DShield
-https://ryanpimoaab.github.io/dshd/dshd-HM.txt
+https://dbl.oisd.nl/
