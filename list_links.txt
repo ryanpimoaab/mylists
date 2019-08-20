@@ -5,9 +5,6 @@ https://ryanpimoaab.github.io/dc-me/smpl_trckng.txt
 https://ryanpimoaab.github.io/dc-me/smpl_ad.txt
 https://ryanpimoaab.github.io/h-f-ad/ad_srv.txt
 
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-
-
 
 https://v.firebog.net/hosts/static/w3kbl.txt
 
