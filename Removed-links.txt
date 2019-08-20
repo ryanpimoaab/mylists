@@ -99,3 +99,6 @@ https://ryanpimoaab.github.io/tspr-frd-ph/tspr-frd-ph.txt
 
 ## DShield
 https://ryanpimoaab.github.io/dshd/dshd-HM.txt
+
+
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
